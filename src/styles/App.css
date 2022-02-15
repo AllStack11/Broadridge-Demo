@@ -1,0 +1,25 @@
+.flex-container{
+    display: flex;
+}
+.flex-main{
+    margin-top:20px;
+    display: flex;
+    width: 75%;
+    border: 2px solid rgb(26, 75, 211);
+    flex: 8;
+}
+.flex-sidebar{
+    flex: 2;
+}
+.c1{
+    flex: 2;
+}
+.c2{
+    flex: 2;
+}
+.c3{
+    flex: 2;
+}
+.flex3{
+    flex:1;
+}

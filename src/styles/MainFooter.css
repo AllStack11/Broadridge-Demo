@@ -1,0 +1,8 @@
+.mainFooter{
+    background-color:rgba(0,87,141,255);
+    font: 1em RooneySans-Regular, "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
+    margin-top: 12px;
+    bottom: 0;
+    position: absolute;
+    
+}
